@@ -1,8 +1,8 @@
 {
-	"name": "fls_start_gulp",
+	"name": "lucky_group",
 	"version": "1.0.0",
 	"description": "Start template with Gulp",
-	"author": "FLS",
+	"author": "Yusupov Doston",
 	"private": true,
 	"license": "GNU General Public License (GPL)",
 	"devDependencies": {
